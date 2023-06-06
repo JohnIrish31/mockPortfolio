@@ -1,0 +1,95 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#nav {
+	background-color: #2C3333 !important;
+	font-family: "jost", sans-serif;
+	color: white !important;
+}
+
+body {
+	background-image: url("https://images.pexels.com/photos/414916/pexels-photo-414916.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: top;
+}
+
+#landing{
+	background-color: white;
+	background-image: url("https://images.unsplash.com/photo-1613158556069-e7d8eae76214?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+	background-size: cover;
+	background-attachment:scroll;
+	background-position: right;
+}
+
+#Qoute{
+	font-family: "Baskervville", serif;
+	font-weight: bold;
+	color: white;
+}
+
+
+#text4 {
+	font-family: shadows into light, sans-serif !important;
+	font-weight: bolder !important;
+}
+
+#text2 {
+	font-family: "jost", sans-serif;
+	font-weight: bolder;
+}
+
+#text3 {
+	font-family: "jost", sans-serif;
+}
+
+#text3, #text2, #text4{
+	color: #FFFBF5;
+	font-weight: lighter;
+}
+
+#Projects {
+	background-image: url("https://images.unsplash.com/photo-1593108408993-58ee9c7825c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: center;
+/*	background-color: #3C2A21 !important;*/
+}
+
+.project {
+	font-family: shadows into light, sans-serif;
+	font-weight: bolder;
+	color: white;
+}
+
+#text5 {
+	font-family: "amatic sc", sans-serif;
+	color: white;
+	font-weight: lighter;
+}
+
+#project-bg {
+	background-color: #2C3333;
+}
+
+
+#Tools{
+	background-image: url("https://images.unsplash.com/photo-1616004655123-818cbd4b3143?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80");
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: bottom;
+	}
+
+#footer {
+	background-color: #2C3333;
+}
+
+
+#title {
+	font-family: "Baskervville", serif;
+	color: white;
+	font-weight: bolder;
+}
